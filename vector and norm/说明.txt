@@ -1,0 +1,4 @@
+输出向量映射：
+Iris-setosa：[0,0]
+Iris-versicolor：[1,1]
+Iris-virginica：[0,1]
